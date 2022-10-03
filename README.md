@@ -1,6 +1,11 @@
+# FNeVR: Neural Volume Rendering for Face Animation
+
+Because this article deals with project confidentiality, only part of the test code is open source  \
+[paper](https://arxiv.org/abs/2209.10340)
+
 ## Environment configuration
 
-###### **The codes are based on python3.8+, CUDA version 11.0+. The specific configuration steps are as follows:**
+ **The codes are based on python3.8+, CUDA version 11.0+. The specific configuration steps are as follows:**
 
 1. Create conda environment
    
