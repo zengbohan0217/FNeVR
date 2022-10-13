@@ -1,6 +1,6 @@
 # FNeVR: Neural Volume Rendering for Face Animation
 
-Because this article deals with project confidentiality, only part of the test code is open source  \
+Because this article deals with project confidentiality, only part of the test code is available  \
 [paper](https://arxiv.org/abs/2209.10340)
 
 ## Environment configuration
