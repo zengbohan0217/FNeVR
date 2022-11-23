@@ -1,6 +1,6 @@
 # FNeVR: Neural Volume Rendering for Face Animation
 
-Because this article deals with project confidentiality, only part of the test code is open source  \
+**Limited by the related treaties, only the testing code is available now.**  \
 [paper](https://arxiv.org/abs/2209.10340)
 
 ## Environment configuration
@@ -45,3 +45,7 @@ python demo.py  --config config/vox_256.yaml --driving_video sup-mat/driving.mp4
 ```
 
 The result will be stored in `result.mp4`.
+
+## Acknowledgement
+
+Our FNeVR implementation is inspired by [FOMM](https://github.com/AliaksandrSiarohin/first-order-model) and [DECA](https://github.com/YadiraF/DECA). We appreciate the authors of these papers for making their codes available to the public.
